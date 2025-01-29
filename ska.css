@@ -1,0 +1,70 @@
+:focus {
+  outline-style: dotted;
+  outline-width: thick;
+}
+
+.ska-riot {
+  font-family: sans-serif;
+  font-size: calc(1em + 1vw + 1vh);
+  line-height: 1.6;
+}
+
+.ska-body {
+  margin: auto;
+  padding: 1rem;
+  overflow-wrap: break-word;
+}
+
+.ska-fit {
+  max-width: 100%;
+  height: auto;
+}
+
+.ska-pad {
+  padding: 1rem;
+}
+
+.ska-wave {
+  display: table;
+  padding: 1ex;
+  padding-block: 1em;
+}
+
+.ska-vest { line-height: inherit; font-weight: 400; font-size: 1rem }
+.ska-know { line-height: inherit; font-weight: 600; font-size: 1.6rem }
+.ska-high { line-height: inherit; font-weight: 700; font-size: 2.6rem }
+
+.ska-blend {
+  font: inherit;
+  margin: unset;
+}
+
+.ska-block {
+  display: block;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.ska-serve {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.ska-inhale { margin-block-start: 1rem }
+.ska-exhale { margin-block-end: 2rem }
+.ska-mosh { max-width: 14em }
+
+.ska-pulse {
+  text-decoration: line-through dotted 3pt;
+  opacity: .5;
+}
+
+@media (orientation: portrait) {
+  .ska-canal {
+    width: 8em;
+    overflow: visible;
+  }
+}
