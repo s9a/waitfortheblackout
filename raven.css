@@ -1,0 +1,38 @@
+.waitfortheblackout {
+  background: midnightblue;
+  color: lightcoral;
+}
+
+:any-link {
+  color: skyblue;
+}
+
+.webothknowwhattodo {
+
+}
+
+.pleasedontgoaway {
+
+}
+
+.therespowerinthenitetimethathuewontfindintheday {  
+
+}
+
+@media (prefers-color-scheme: dark) {
+
+}
+
+@media (prefers-color-scheme: light) {
+
+}
+
+@media (prefers-color-scheme: dark) {
+
+}
+
+.thereisnovisionhere {
+  contain: paint;
+  font-size: 0;
+  line-height: 0;
+}
